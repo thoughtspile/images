@@ -1468,7 +1468,7 @@
 <text text-anchor="middle" x="750" y="-515.02" font-family="Arial" font-size="14.00" fill="#c6c5fe">RangeSlider/RangeSlider.js</text>
 </g>
 <!-- RangeSlider/UniversalSlider.js -->
-<g id="node95" class="node">
+<g id="node95" class="node" opacity="0.4">
 <title>RangeSlider/UniversalSlider.js</title>
 <path fill="none" stroke="#c6c5fe" d="M1133.83,-530.22C1133.83,-530.22 951.17,-530.22 951.17,-530.22 947.33,-530.22 943.5,-526.39 943.5,-522.55 943.5,-522.55 943.5,-514.89 943.5,-514.89 943.5,-511.05 947.33,-507.22 951.17,-507.22 951.17,-507.22 1133.83,-507.22 1133.83,-507.22 1137.67,-507.22 1141.5,-511.05 1141.5,-514.89 1141.5,-514.89 1141.5,-522.55 1141.5,-522.55 1141.5,-526.39 1137.67,-530.22 1133.83,-530.22"/>
 <text text-anchor="middle" x="1042.5" y="-515.02" font-family="Arial" font-size="14.00" fill="#c6c5fe">RangeSlider/UniversalSlider.js</text>
@@ -1594,7 +1594,7 @@
 <polygon fill="#757575" stroke="#757575" points="647.83,-852.12 657.17,-847.12 646.75,-845.21 647.83,-852.12"/>
 </g>
 <!-- Slider/Slider.js -->
-<g id="node101" class="node">
+<g id="node101" class="node" opacity="0.4">
 <title>Slider/Slider.js</title>
 <path fill="none" stroke="#c6c5fe" d="M793.33,-571.22C793.33,-571.22 706.67,-571.22 706.67,-571.22 702.83,-571.22 699,-567.39 699,-563.55 699,-563.55 699,-555.89 699,-555.89 699,-552.05 702.83,-548.22 706.67,-548.22 706.67,-548.22 793.33,-548.22 793.33,-548.22 797.17,-548.22 801,-552.05 801,-555.89 801,-555.89 801,-563.55 801,-563.55 801,-567.39 797.17,-571.22 793.33,-571.22"/>
 <text text-anchor="middle" x="750" y="-556.02" font-family="Arial" font-size="14.00" fill="#c6c5fe">Slider/Slider.js</text>
