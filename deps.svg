@@ -1612,7 +1612,7 @@
 <text text-anchor="middle" x="430.5" y="-1054.02" font-family="Arial" font-size="14.00" fill="#c6c5fe">SliderSwitch/SliderSwitch.js</text>
 </g>
 <!-- SliderSwitch/SliderSwitchButton.js -->
-<g id="node103" class="node">
+<g id="node103" class="node" opacity="0.4">
 <title>SliderSwitch/SliderSwitchButton.js</title>
 <path fill="none" stroke="#c6c5fe" d="M852.83,-1089.22C852.83,-1089.22 647.17,-1089.22 647.17,-1089.22 643.33,-1089.22 639.5,-1085.39 639.5,-1081.55 639.5,-1081.55 639.5,-1073.89 639.5,-1073.89 639.5,-1070.05 643.33,-1066.22 647.17,-1066.22 647.17,-1066.22 852.83,-1066.22 852.83,-1066.22 856.67,-1066.22 860.5,-1070.05 860.5,-1073.89 860.5,-1073.89 860.5,-1081.55 860.5,-1081.55 860.5,-1085.39 856.67,-1089.22 852.83,-1089.22"/>
 <text text-anchor="middle" x="750" y="-1074.02" font-family="Arial" font-size="14.00" fill="#c6c5fe">SliderSwitch/SliderSwitchButton.js</text>
